@@ -1,0 +1,3 @@
+[submodule "inixiante/lib/forge-std"]
+	path = inixiante/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
